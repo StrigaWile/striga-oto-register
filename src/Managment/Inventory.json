@@ -1,0 +1,41 @@
+{ 
+
+"Server": {
+"ServerID": "",
+"ServerTag": "TAGLI TAGI", 
+"UnServerTag": "TAGSIZ TAGI"
+},
+    
+"Staff": {
+
+"register_staff": "",
+"all_commands": ""
+},
+
+"Roles": {
+"man_role": "",
+"woman_role": "",
+"unregister_role": "",
+"tag_role": "",
+"suspect_role": "",
+"booster_role": "",
+"precious_member_role": ""
+},
+
+"Channels": {
+"welcome_channel": "",   
+"server_rules": "",
+"register_channel": "KAYIT LOGLARI TUTULUCAK NORMAL KAYIT KANALI DEĞİL !",
+"oto_kayıt": ""
+},
+
+"Colors": {
+"blue": "#58a3ee",
+"red": "#ee5858",
+"pink": "#e03db9",
+"magenta": "#882cce",
+"cver": "#22af57",
+"cdeny": "#860606",
+"anlik": "#5bccc6",
+"mavis": "#56dbaa"
+}}

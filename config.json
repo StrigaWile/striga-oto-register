@@ -1,0 +1,1 @@
+{"BotOwner": "", "BotToken": "", "BotPrefix": ".", "BotSoundChannelID": ""}
